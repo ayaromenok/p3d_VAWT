@@ -26,5 +26,5 @@ void loop() {
   Serial.println("Rot/min. ");   //Revolutions per minute  
   RPM=0;
   interrupts(); 
-  delay(5000); //10 sec for manual test
+  delay(1000); //1 sec for real test
 }
