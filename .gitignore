@@ -1,2 +1,6 @@
 # Blender backup
 *.blend1
+blend/test
+
+# some local test STL's
+stl/test/
